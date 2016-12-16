@@ -1,0 +1,2 @@
+[04-Nov-2014 20:01:46] PHP Warning:  symlink() [<a href='function.symlink'>function.symlink</a>]: Permission denied in /home3/duy1605/public_html/circuit-vietnam-cambodge.com/hq.php on line 16
+[04-Nov-2014 20:01:46] PHP Warning:  readlink() [<a href='function.readlink'>function.readlink</a>]: Invalid argument in /home3/duy1605/public_html/circuit-vietnam-cambodge.com/hq.php on line 17

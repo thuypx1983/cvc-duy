@@ -1,0 +1,3 @@
+{"link_id":"94008","link_url":"http:\/\/www.voyage-laos-cambodge.com\/tours\/Les_meilleurs_du_Laos_Cambodge_et_extension_a_la_plage_17_jours_16_nuits.html","link_title":null,"link_anchortext":"Combin\u00e9 Laos Cambodge","link_desc":"Combin\u00e9 Laos Cambodge"}
+
+{"link_id":"76991","link_url":"http:\/\/www.laos-vietnam-tours.com\/tours\/Tours_to_Vietnam_and_Laos_17_Days_16_Nights.html","link_title":null,"link_anchortext":"vietnam laos tour 17 days","link_desc":null}

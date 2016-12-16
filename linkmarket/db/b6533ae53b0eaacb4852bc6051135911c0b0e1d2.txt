@@ -1,0 +1,9 @@
+{"link_id":"30781","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Nord_du_Vietnam\/Chez_Loan_a_Tam_Coc_Ninh_Binh.html","link_title":null,"link_anchortext":"chez loan vietnam","link_desc":"prix moins cher"}
+
+{"link_id":"26178","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Delta_du_Mekong\/","link_title":null,"link_anchortext":"mekong chez l'habitant","link_desc":"Prix moins cher"}
+
+{"link_id":"26182","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Sapa_Bac_Ha\/","link_title":null,"link_anchortext":"sapa vietnam dormir chez l'habitant","link_desc":"prix moins cher"}
+
+{"link_id":"22095","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/","link_title":null,"link_anchortext":"logement chez l habitant Vietnam","link_desc":"agence locale, prix moins cher"}
+
+{"link_id":"24215","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/tours\/Circuit_chez_l_habitant_au_Nord_Vietnam\/Le_Nord_est_Vietnam_authentique_et_sauvage_avec_2_nuits_chez_l_habitant_10_jours.html","link_title":null,"link_anchortext":"voyage authentique vietnam","link_desc":"Agence locale tr\u00e8s s\u00e9rieuse, prix moins cher"}

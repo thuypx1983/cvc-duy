@@ -1,0 +1,9 @@
+{"link_id":"30773","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Delta_du_Mekong\/","link_title":null,"link_anchortext":"chez l habitant cai be","link_desc":"Prix moins cher"}
+
+{"link_id":"30779","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Nord_du_Vietnam\/Chez_Loan_a_Tam_Coc_Ninh_Binh.html","link_title":null,"link_anchortext":"chez loan tam coc","link_desc":"prix moins cher"}
+
+{"link_id":"26180","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Sapa_Bac_Ha\/","link_title":null,"link_anchortext":"dormir chez l'habitant a sapa","link_desc":"Prix moins cher"}
+
+{"link_id":"22093","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/","link_title":null,"link_anchortext":"chez l habitant Vietnam","link_desc":"agence locale, prix moins cher"}
+
+{"link_id":"22110","link_url":"http:\/\/www.voyagevietnam-chezhabitant.com\/hotels\/Mai_Chau_Hoa_Binh\/","link_title":null,"link_anchortext":"chez l habitant mai chau","link_desc":"Agence locale, prix moins cher"}

@@ -1,0 +1,9 @@
+{"link_id":"6942","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"Voyage Vietnam","link_desc":"Agence de voyage au Vietnam"}
+
+{"link_id":"11623","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Croisiere_Mekong\/","link_title":null,"link_anchortext":"Croisi\u00e8re sur le M\u00e9kong","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
+
+{"link_id":"11373","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Vacances_Sapa\/","link_title":null,"link_anchortext":"sapa voyages","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
+
+{"link_id":"11396","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Baie_d_Halong\/","link_title":null,"link_anchortext":"croisiere halong","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
+
+{"link_id":"11262","link_url":"http:\/\/www.galatouriste.com\/tours\/Voyage_en_Indonchine\/Beaute_cachee_du_Vietnam_et_Cambodge.html","link_title":null,"link_anchortext":"combin\u00e9 Vietnam cambodge","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}

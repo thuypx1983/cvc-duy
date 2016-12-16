@@ -1,0 +1,9 @@
+{"link_id":"61524","link_url":"http:\/\/www.viajes-a-camboya.com\/","link_title":null,"link_anchortext":"viaje camboya","link_desc":null}
+
+{"link_id":"76760","link_url":"http:\/\/www.viajes-a-camboya.com\/tours\/Camboya_Esencial_10_Dias_9_Noches.html","link_title":null,"link_anchortext":"circuitos por camboya","link_desc":null}
+
+{"link_id":"76766","link_url":"http:\/\/www.viajes-a-camboya.com\/about\/Introduccion_de_Galatourist.html","link_title":null,"link_anchortext":"agencia de turismo camboya","link_desc":null}
+
+{"link_id":"76770","link_url":"http:\/\/www.viajes-a-camboya.com\/tours\/Angkor_Esplendido_4_Dias_3_Noches.html","link_title":null,"link_anchortext":"visita angkor wat en camboya","link_desc":null}
+
+{"link_id":"76774","link_url":"http:\/\/www.viajes-a-camboya.com\/tours\/Belleza_Notable_de_Camboya_12_Dias_11_Noches.html","link_title":null,"link_anchortext":"circuito camboya 12 dias","link_desc":null}

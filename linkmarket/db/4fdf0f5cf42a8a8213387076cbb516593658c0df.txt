@@ -1,0 +1,9 @@
+{"link_id":"89631","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/","link_title":null,"link_anchortext":"Best tours of Vietnam and Cambodia","link_desc":null}
+
+{"link_id":"89694","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Others_combination_Tours\/Discovery_of_Bangkok_Cambodia_Vietnam_14_days_13_nights.html","link_title":null,"link_anchortext":"Vietnam Cambodia Thailand trip","link_desc":null}
+
+{"link_id":"89714","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Vietnam_Cambodia_Tours\/Saigon_To_Phnom_Penh_by_Boat.html","link_title":null,"link_anchortext":"Travel from Phnom Penh to Ho Chi Minh by boat","link_desc":null}
+
+{"link_id":"89731","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Cambodia_Laos_Tours\/The_best_of_Cambodia_Laos_15_days_14_nights.html","link_title":null,"link_anchortext":"Travel from Cambodia to Laos","link_desc":null}
+
+{"link_id":"89744","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Combination_Tours\/Vietnam_Cambodia_Tours\/","link_title":null,"link_anchortext":"Holiday Vietnam and Cambodia","link_desc":null}

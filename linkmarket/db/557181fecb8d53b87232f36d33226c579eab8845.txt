@@ -1,0 +1,5 @@
+{"link_id":"22037","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Combination_Tours\/Vietnam_Cambodia_Tours\/","link_title":null,"link_anchortext":"cambodia vietnam trip","link_desc":"Best local travel agent"}
+
+{"link_id":"112572","link_url":"http:\/\/www.hue-hoian-tours.com\/tours\/Hue_city_tour_1_day.html","link_title":null,"link_anchortext":"Hue Vietnam tours","link_desc":null}
+
+{"link_id":"112674","link_url":"http:\/\/www.circuits-hue-hoian.com\/tours\/Passage_des_sites_culturels_a_la_vallee_historique_Hue_Aluoi_3_jours_2_nuits.html","link_title":null,"link_anchortext":"Circuit \u00e0 Hue","link_desc":null}

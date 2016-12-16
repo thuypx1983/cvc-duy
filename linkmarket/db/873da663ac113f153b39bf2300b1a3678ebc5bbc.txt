@@ -1,0 +1,9 @@
+{"link_id":"61533","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/","link_title":null,"link_anchortext":"circuit vietnam thailande","link_desc":null}
+
+{"link_id":"81824","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/tours\/Voyage_combine_Thailande_et_Vietnam_14_jours.html","link_title":null,"link_anchortext":"voyage vietnam thailande en 14 jours","link_desc":null}
+
+{"link_id":"81825","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/tours\/Voyage_combine_Thailande_et_Vietnam_20_jours.html","link_title":null,"link_anchortext":"voyage combine thailande vietnam","link_desc":null}
+
+{"link_id":"81828","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/tours\/Beaute_cachee_du_Vietnam_et_de_Thailande_22_jours.html","link_title":null,"link_anchortext":"beaut\u00e9 thailande vietnam","link_desc":null}
+
+{"link_id":"81833","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/tours\/Sejour_combine_Vietnam_et_Thailande_21_jours.html","link_title":null,"link_anchortext":"s\u00e9jour vietnam thailande en 3 semaines","link_desc":null}

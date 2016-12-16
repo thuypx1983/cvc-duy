@@ -1,0 +1,3 @@
+{"link_id":"82411","link_url":"http:\/\/www.viajes-vietnam-camboya.com\/tours\/Viajes_de_Conexion\/Rutas_por_Camboya_Laos\/","link_title":null,"link_anchortext":"viajes a laos y camboya","link_desc":null}
+
+{"link_id":"82036","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Vietnam_and_Cambodia_holidays\/Nice_itinerary_of_Vietnam_and_Cambodia_10_days_9_nights.html","link_title":null,"link_anchortext":"itinerary vietnam cambodia","link_desc":null}

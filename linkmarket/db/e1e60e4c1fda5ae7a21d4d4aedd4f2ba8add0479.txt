@@ -1,0 +1,3 @@
+{"link_id":"61548","link_url":"http:\/\/www.vietnam-thailand-tours.com\/","link_title":null,"link_anchortext":"vietnam thailand tours","link_desc":null}
+
+{"link_id":"82150","link_url":"http:\/\/www.viaje-a-vietnam.com\/tours\/Viajes_Clasicos_a_Vietnam\/Circuito_maravilloso_a_Vietnam_14_dias_13_noches.html","link_title":null,"link_anchortext":"Circuito por Vietnam","link_desc":null}

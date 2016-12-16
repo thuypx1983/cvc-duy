@@ -1,0 +1,7 @@
+{"link_id":"22037","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Combination_Tours\/Vietnam_Cambodia_Tours\/","link_title":null,"link_anchortext":"cambodia vietnam trip","link_desc":"Best local travel agent"}
+
+{"link_id":"112639","link_url":"http:\/\/www.circuits-hue-hoian.com\/","link_title":null,"link_anchortext":"Hoi An tourisme","link_desc":null}
+
+{"link_id":"81862","link_url":"http:\/\/www.laos-vietnam-tours.com\/tours\/Central_Laos_North_Vietnam_10_Days_9_Nights.html","link_title":null,"link_anchortext":"laos and north vietnam tour","link_desc":null}
+
+{"link_id":"158390","link_url":"http:\/\/www.thailand-package-tours.com\/tours\/Charming_vacation_in_Thailand_14_days_13_nights.html","link_title":null,"link_anchortext":"Thailand itinerary 2 weeks","link_desc":null}

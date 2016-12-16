@@ -1,0 +1,5 @@
+{"link_id":"82145","link_url":"http:\/\/www.viaje-a-vietnam.com\/tours\/Vietnam\/Viajes_Clasicos_a_Vietnam\/","link_title":null,"link_anchortext":"excursiones vietnam","link_desc":null}
+
+{"link_id":"82036","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Vietnam_and_Cambodia_holidays\/Nice_itinerary_of_Vietnam_and_Cambodia_10_days_9_nights.html","link_title":null,"link_anchortext":"itinerary vietnam cambodia","link_desc":null}
+
+{"link_id":"143445","link_url":"http:\/\/www.crucerobahiahalong.com\/","link_title":null,"link_anchortext":"Cruceros bahia Halong","link_desc":"Nos especializamos en organizar los mejores cruceros de la Bah\u00eda Halong con los precios m\u00e1s razonables."}

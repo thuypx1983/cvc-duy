@@ -1,0 +1,9 @@
+{"link_id":"7708","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"vacance Vietnam","link_desc":"Sp\u00e9cialiste des vacances authentiques, individuels et sur-mesure au Vietnam, Laos & Cambodge..., Meilleurs services et tarifs."}
+
+{"link_id":"8476","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Circuits_hors_sentiers_battus\/","link_title":null,"link_anchortext":"Vietnam autrement","link_desc":"Voyage authentique avec Galatourist"}
+
+{"link_id":"7717","link_url":"http:\/\/www.galatouriste.com\/qui-sommes-nous\/Presentation_de_Galatourist.html","link_title":null,"link_anchortext":"Agence de voyage au Vietnam","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
+
+{"link_id":"8488","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_authentique\/","link_title":null,"link_anchortext":"circuit nord Vietnam","link_desc":"Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs"}
+
+{"link_id":"7987","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_Vietnam\/","link_title":null,"link_anchortext":"Vietnam tourisme","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}

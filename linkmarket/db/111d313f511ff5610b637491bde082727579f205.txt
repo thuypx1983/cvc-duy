@@ -1,0 +1,9 @@
+{"link_id":"87427","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"sejours au vietnam","link_desc":null}
+
+{"link_id":"90535","link_url":"http:\/\/www.galatouriste.com\/qui-sommes-nous\/Presentation_de_Galatourist.html","link_title":null,"link_anchortext":"Agence voyages Vietnam","link_desc":null}
+
+{"link_id":"90553","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_Vietnam\/","link_title":null,"link_anchortext":"Voyage organis\u00e9 au Vietnam","link_desc":null}
+
+{"link_id":"90567","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Circuits_hors_sentiers_battus\/","link_title":null,"link_anchortext":"Circuit individuel Vietnam","link_desc":null}
+
+{"link_id":"90575","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_authentique\/","link_title":null,"link_anchortext":"Visite du Vietnam","link_desc":null}

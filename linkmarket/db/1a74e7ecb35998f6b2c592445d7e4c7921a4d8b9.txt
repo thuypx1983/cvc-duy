@@ -1,0 +1,9 @@
+{"link_id":"87425","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"sejours vietnam","link_desc":null}
+
+{"link_id":"90534","link_url":"http:\/\/www.galatouriste.com\/qui-sommes-nous\/Presentation_de_Galatourist.html","link_title":null,"link_anchortext":"Office du tourisme Vietnam","link_desc":null}
+
+{"link_id":"90552","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_Vietnam\/","link_title":null,"link_anchortext":"Tourisme au Vietnam","link_desc":null}
+
+{"link_id":"90566","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Circuits_hors_sentiers_battus\/","link_title":null,"link_anchortext":"Circuit Viet Nam","link_desc":null}
+
+{"link_id":"90574","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_authentique\/","link_title":null,"link_anchortext":"Voyage au nord Vietnam","link_desc":null}

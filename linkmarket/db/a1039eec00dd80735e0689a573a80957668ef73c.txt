@@ -1,0 +1,9 @@
+{"link_id":"7127","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"Vacances Vietnam","link_desc":"Agence tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des clients. Bon niveau des guides et chauffeurs s\u00fbrs."}
+
+{"link_id":"81949","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/","link_title":null,"link_anchortext":"holidays to vietnam and cambodia","link_desc":null}
+
+{"link_id":"61526","link_url":"http:\/\/www.voyage-laos-cambodge.com\/","link_title":null,"link_anchortext":"voyage laos cambodge","link_desc":null}
+
+{"link_id":"61533","link_url":"http:\/\/www.circuit-vietnam-thailande.com\/","link_title":null,"link_anchortext":"circuit vietnam thailande","link_desc":null}
+
+{"link_id":"77444","link_url":"http:\/\/www.viaje-a-vietnam.com\/","link_title":null,"link_anchortext":"Viaje Vietnam","link_desc":null}

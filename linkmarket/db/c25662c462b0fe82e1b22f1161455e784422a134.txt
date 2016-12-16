@@ -1,0 +1,5 @@
+{"link_id":"82145","link_url":"http:\/\/www.viaje-a-vietnam.com\/tours\/Vietnam\/Viajes_Clasicos_a_Vietnam\/","link_title":null,"link_anchortext":"excursiones vietnam","link_desc":null}
+
+{"link_id":"82036","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Vietnam_and_Cambodia_holidays\/Nice_itinerary_of_Vietnam_and_Cambodia_10_days_9_nights.html","link_title":null,"link_anchortext":"itinerary vietnam cambodia","link_desc":null}
+
+{"link_id":"82089","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Trip_of_Vietnam_Laos_Cambodia\/Amazing_tour_of_Laos_Vietnam_Cambodia_21_days_20_nights.html","link_title":null,"link_anchortext":"vietnam cambodia laos tour","link_desc":null}

@@ -1,0 +1,9 @@
+{"link_id":"81974","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Combination_Tours\/Vietnam_and_Cambodia_holidays\/","link_title":null,"link_anchortext":"tours of vietnam and cambodia","link_desc":null}
+
+{"link_id":"77446","link_url":"http:\/\/www.viaje-a-vietnam.com\/","link_title":null,"link_anchortext":"Viajes Vietnam","link_desc":null}
+
+{"link_id":"112592","link_url":"http:\/\/www.hue-hoian-tours.com\/tours\/From_Tra_Que_village_To_Van_Lang_village_and_Bay_Mau_Water_Coconut_Forest_1_day.html","link_title":null,"link_anchortext":"Hoi An day tour","link_desc":null}
+
+{"link_id":"154878","link_url":"http:\/\/www.circuits-en-thailande.com\/tours\/Sejour_en_Thailande_fascinante_15_Jours_14_Nuits.html","link_title":null,"link_anchortext":"Circuit en Thailande 15 jours","link_desc":null}
+
+{"link_id":"82089","link_url":"http:\/\/www.vietnam-cambodia-holidays.com\/tours\/Trip_of_Vietnam_Laos_Cambodia\/Amazing_tour_of_Laos_Vietnam_Cambodia_21_days_20_nights.html","link_title":null,"link_anchortext":"vietnam cambodia laos tour","link_desc":null}

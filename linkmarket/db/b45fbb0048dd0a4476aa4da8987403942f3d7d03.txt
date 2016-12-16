@@ -1,0 +1,5 @@
+{"link_id":"82309","link_url":"http:\/\/www.viajes-vietnam-camboya.com\/tours\/Viajes_de_Conexion\/Viaje_a_paises_Indochina\/","link_title":null,"link_anchortext":"viajes a Vietnam Camboya y Laos","link_desc":null}
+
+{"link_id":"93259","link_url":"http:\/\/www.laos-vietnam-tours.com\/tours\/Vietnam_and_Laos_Culture_Tour_12days_11nights.html","link_title":null,"link_anchortext":"Laos Vietnam travel","link_desc":null}
+
+{"link_id":"154877","link_url":"http:\/\/www.circuits-en-thailande.com\/tours\/Sejour_en_Thailande_fascinante_15_Jours_14_Nuits.html","link_title":null,"link_anchortext":"Thailande circuit 15 jours","link_desc":null}

@@ -1,0 +1,9 @@
+{"link_id":"22030","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/","link_title":null,"link_anchortext":"tours to vietnam and cambodia","link_desc":"Best local travel agent"}
+
+{"link_id":"89651","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Vietnam_Cambodia_Tours\/Discovery_of_Vietnam_and_Cambodia_12_days_11_nights.html","link_title":null,"link_anchortext":"Visit Vietnam Cambodia","link_desc":null}
+
+{"link_id":"89663","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Vietnam_Cambodia_Tours\/The_best_of_Vietnam_Cambodia_14_days_13_nights.html","link_title":null,"link_anchortext":"Cambodia Vietnam itinerary 2 weeks","link_desc":null}
+
+{"link_id":"89675","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Vietnam_Cambodia_Tours\/Splendid_Vietnam_and_Cambodia_21_days_20_nights.html","link_title":null,"link_anchortext":"Cambodia Vietnam travel itinerary","link_desc":null}
+
+{"link_id":"89695","link_url":"http:\/\/www.vietnam-cambodia-tours.com\/tours\/Others_combination_Tours\/Discovery_of_Bangkok_Cambodia_Vietnam_14_days_13_nights.html","link_title":null,"link_anchortext":"Trip Vietnam Cambodia Thailand","link_desc":null}

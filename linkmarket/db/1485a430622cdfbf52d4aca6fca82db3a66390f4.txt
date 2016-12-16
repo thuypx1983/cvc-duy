@@ -1,0 +1,5 @@
+{"link_id":"6942","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"Voyage Vietnam","link_desc":"Agence de voyage au Vietnam"}
+
+{"link_id":"112639","link_url":"http:\/\/www.circuits-hue-hoian.com\/","link_title":null,"link_anchortext":"Hoi An tourisme","link_desc":null}
+
+{"link_id":"81548","link_url":"http:\/\/www.vietnam-thailand-tours.com\/tours\/Tours_of_Vietnam_and_Thailand_12_days_11_nights.html","link_title":null,"link_anchortext":"tours of vietnam and thailand","link_desc":null}

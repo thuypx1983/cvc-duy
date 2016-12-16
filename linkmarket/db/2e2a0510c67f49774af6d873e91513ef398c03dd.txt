@@ -1,0 +1,5 @@
+{"link_id":"6942","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"Voyage Vietnam","link_desc":"Agence de voyage au Vietnam"}
+
+{"link_id":"112639","link_url":"http:\/\/www.circuits-hue-hoian.com\/","link_title":null,"link_anchortext":"Hoi An tourisme","link_desc":null}
+
+{"link_id":"81862","link_url":"http:\/\/www.laos-vietnam-tours.com\/tours\/Central_Laos_North_Vietnam_10_Days_9_Nights.html","link_title":null,"link_anchortext":"laos and north vietnam tour","link_desc":null}

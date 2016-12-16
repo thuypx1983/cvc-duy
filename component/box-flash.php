@@ -1,0 +1,2 @@
+<a href="<?php echo urlBuild('phone.php')?>" class="btn_fix" title="Callback request" id="btn_rdv_right">RDV téléphonique gratuit</a>
+<a href="<?php echo urlBuild('tour-customize.php')?>" class="btn_fix" id="btn_devis_right">Devis sur mesure</a>

@@ -1,0 +1,7 @@
+{"link_id":"82129","link_url":"http:\/\/www.viaje-a-vietnam.com\/tours\/Viajes_Clasicos_a_Vietnam\/Viajar_por_Vietnam_9_dias_8_noches.html","link_title":null,"link_anchortext":"Viajar Vietnam","link_desc":null}
+
+{"link_id":"112678","link_url":"http:\/\/www.circuits-hue-hoian.com\/tours\/Terre_de_charme_Hue_Hoi_An_Dong_Giang_4_jours_3_nuits.html","link_title":null,"link_anchortext":"Centre Vietnam voyage","link_desc":null}
+
+{"link_id":"81548","link_url":"http:\/\/www.vietnam-thailand-tours.com\/tours\/Tours_of_Vietnam_and_Thailand_12_days_11_nights.html","link_title":null,"link_anchortext":"tours of vietnam and thailand","link_desc":null}
+
+{"link_id":"151353","link_url":"http:\/\/www.circuit-cambodge.com\/tours\/Vacances_Cambodge_pas_cher_12_Jours_11_Nuits.html","link_title":null,"link_anchortext":"Vacances Cambodge","link_desc":null}

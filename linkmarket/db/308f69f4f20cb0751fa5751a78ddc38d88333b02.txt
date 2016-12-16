@@ -1,0 +1,9 @@
+{"link_id":"7709","link_url":"http:\/\/www.galatouriste.com\/","link_title":null,"link_anchortext":"Voyage au Vietnam","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des clients. Bon niveau des guides et chauffeurs s\u00fbrs."}
+
+{"link_id":"8477","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Circuits_hors_sentiers_battus\/","link_title":null,"link_anchortext":"voyage Vietnam autrement","link_desc":"Voyage authentique avec Galatourist"}
+
+{"link_id":"7718","link_url":"http:\/\/www.galatouriste.com\/qui-sommes-nous\/Presentation_de_Galatourist.html","link_title":null,"link_anchortext":"Agence de voyage Vietnam","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
+
+{"link_id":"8489","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_authentique\/","link_title":null,"link_anchortext":"voyage nord Vietnam","link_desc":"Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs"}
+
+{"link_id":"7988","link_url":"http:\/\/www.galatouriste.com\/tours\/Vietnam\/Voyage_Vietnam\/","link_title":null,"link_anchortext":"Tourisme Vietnam","link_desc":"Agence Galatourist tr\u00e8s s\u00e9rieuse et fiable qui peut s'adapter aux exigences des voyageurs."}
